@@ -5,6 +5,6 @@ Il motivo per avere una organizzazione e' per far si che non ci sia una sola per
 
 ### Come contribuire
 
-Se pensate di poter fornire miglioramente a repository gia' esistenti, semplicemente create un fork nel vostro account github, effettuate le modifiche, testatele su una [installazione locale di discourse](https://meta.discourse.org/t/how-to-install-discourse-locally/185116) e successivamente aprire una merge request delle vostre modifiche.
+Se pensate di poter fornire miglioramente a repository gia' esistenti, semplicemente create un fork nel vostro account github, effettuate le modifiche, testatele su una [installazione locale di discourse](https://meta.discourse.org/t/install-discourse-for-development-using-docker/102009) e successivamente aprire una merge request delle vostre modifiche.
 La presenza di diversi membri all'interno di questa github organisation dovrebbe assicurare che qualcuno possa sempre verificare la bonta' della richiesta ed, eventualmente, approvarla.
 
