@@ -18,4 +18,4 @@ Per poter partecipare e' utile dare una lettura a questi links:
 - https://meta.discourse.org/t/designers-guide-to-getting-started-with-themes-in-discourse/152002
 - https://meta.discourse.org/t/add-ember-components-to-discourse/48891
 
-Generally speaking there are lots of how-to and tutorials in https://meta.discourse.org/c/documentation/10
+In generale ci sono un sacco di how-to e tutorials in https://meta.discourse.org/c/documentation/10
